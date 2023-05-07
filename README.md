@@ -1,5 +1,4 @@
-### Hi there 👋
- ## My name is João a.k.a John, welcome to my git! 
+## Hi there 👋 and welcome to my git! 
 
 - 🔭 I'm currently studying Software Engineering at [Hive Helsinki](https://www.hive.fi/en/)
 - 📖 Learning UI/UX design + React and Typescript.
