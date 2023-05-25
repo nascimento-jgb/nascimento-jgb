@@ -7,7 +7,7 @@
 - 😄 Fun fact: Before programming, I was a designer and fashion specialist.
 - 📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/joaog-nascimento/)
 
-# Languages
+# Languages & Frameworks
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 # Tech & Tools
