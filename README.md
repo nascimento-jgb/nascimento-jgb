@@ -15,4 +15,7 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
 
 # Stats
-<img src="https://github-readme-stats.vercel.app/api?username=nascimento-jgb&show_icons=true"/>
+<p float="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nascimento-jgb&layout=compact" alt="Top Languages" width="40%"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=nascimento-jgb&show_icons=true" alt="GitHub Stats" width="48%"/>
+</p>
