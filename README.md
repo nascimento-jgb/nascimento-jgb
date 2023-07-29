@@ -1,8 +1,8 @@
 ## Hi there 👋 and welcome to my git! 
 
 - 🔭 I'm currently studying Software Engineering at [Hive Helsinki](https://www.hive.fi/en/)
-- 📖 Learning UI/UX design + Swift and React.
-- 🤘 Looking to collaborate on creative industries and entrepreneurial enterprises.
+- 📖 Learning UI/UX design + Swift and React Native.
+- 🤘 Looking to collaborate on creative industries and entrepreneurial activities.
 - 💬 Ask me about: Endurance sports, classic books, psychology, and self-development.
 - 😄 Fun fact: Before programming, I was a designer and fashion specialist.
 - 📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/joaog-nascimento/)
